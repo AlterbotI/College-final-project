@@ -1,0 +1,388 @@
+
+ADMISSION PROCEDURE Age limits: Maximum age limit DAE in COMPUTER INFORMATION TECHNOLOGY (CIT)
+                                                               
+                                                                1
+
+                                      DAE in COMPUTER INFORMATION TECHNOLOGY (CIT)
+OBJECTIVE
+
+
+
+
+
+SCHEME OF STUDIES
+
+FIRST YEAR                                                                  T      P       C
+Code #
+Gen 111 Islamiat & Pakistan Studies                                         1      0       1
+Eng 112 English                                                             2      0       2
+Math 123 Applied Mathematics-I                                              3      0       3
+Phy. 132 Applied Physics                                                    1      3       2
+Ch. 132 Applied Chemistry                                                   1      3       2
+OHSE 111 Occupational Health, Safety & environment                          1      0       1
+CIT 112 Computer Application Software                                       0      6       2
+CIT 113 Introduction to Computer Programming                                2      3       3
+CIT 121 General Engineering Workshop                                        0      3       1
+CIT 134 Electronics-I                                                       3      3       4
+
+ T o t a l                                                                  14     21      21
+
+SECOND YEAR
+Code #
+Gen 211 Islamiat & Pak Studies                                              1      0       1
+Math 233 Applied Mathematics-II                                             3      0       3
+Mgm 211 Business Communication                                              1      0       1
+CIT 212 Object-Oriented Programming with JAVA                               1      3       2
+CIT 223 Computer Networks                                                   2      3       3
+CIT 235 Micro-Processor Architecture                                        3      6       5
+CIT 244 Electronics-II                                                      3      3       4
+CIT 263 Relational Data-Base Management System                              2      3       3
+
+ T o t a l                                                                  16     18      22
+
+
+
+THIRD YEAR
+Code #
+Gen 311 Islamiat & Pak Studies                                              1       0      1
+Eng 311 Technical Report Writing                                            1       0      1
+Mgt 331 Management                                                          1       0      1
+CIT 303 Web Development with JAVA                                           1       6      3
+CIT 324 Network Administration                                              2       6      4
+CIT 333 Operating System                                                    2       3      3
+CIT 344 Graphic Designing                                                   2       6      4
+CIT 352 PC System and Peripherals Repair                                    1       3      2
+CIT 362 Project                                                             0       6      2
+ T o t a l                                                                  11      30     21
+
+
+                                         2
+
+                            3 YEARS DAE (SOFTWARE)
+
+                  Scheme of Studies
+First Year
+ Code #
+Subject Credit Hours
+First Year
+ Code #                                                                  Th    Pr     C
+Gen 111             Islamiat & Pakistan Studies-I                        1     0      1
+Eng 112             English                                              2     0      2
+Math 123            Applied Mathematics – I                              3     0      3
+Phy 132             Applied Physics                                      1     3      2
+Ch 132              Applied Chemistry                                    1     3      2
+OHSE111             Occupational Health, Safety & Environment            1     0      1
+DSE 111             MS-Office 2016                                       1     3      2
+DSE 112             HTML5 and CSS3                                       1     3      2
+DSE 113             Introduction to PHP                                  1     3      2
+DSE 114             Database Programming with MySQL                      1     3      2
+DSE 116             SEO                                                  1     3      2
+TOTAL                                                                    14    21     21
+
+                    Second Year
+            Duration: 12 Months Total Marks:1100
+
+Code #            Subject Credit Hours
+Second Year                                                             Th     Pr     C
+Gen 211           Islamiat & Pakistan Studies-II                        1      0      1
+Math 233           Applied Mathematics – II                             3      0      3
+Mgm 211            Business Communication                               1      0      1
+DSE 211            Introduction to Java                                 1      3      2
+DSE 212            Introduction to OOP                                  1      3      2
+DSE 213            Android Development                                  1      3      2
+DSE 214            Web Application Development with PHP                 1      3      2
+DSE 215            Introduction to CMS (WordPress)                      1      3      2
+DSE 216            Web Development with Code Igniter                    1      3      2
+TOTAL                                                                   11     18     17
+               
+                                      Third Year
+                          Duration: 12 Months Total Marks: 950
+
+Code#                   Subject Credit Hours Third Year                 Th      Pr    C
+Gen 311              Islamiat & Pakistan studies-III                    1       0     1
+Eng 311              Technical Report Writing                           1       0     1
+Mgt 331              Management                                         1       0     1
+DSE 311              Programming in C#                                  1       3     2
+DSE 312             Web Programming in ASP.NET                          1       3     2
+DSE 313              Database Development in Microsoft SQL Server       1       3     2
+DSE 314              Oracle ERP Essentials                              1       3     2
+DSE 315              Oracle ERP Financials                              1       3     2 
+DSE 316             Oracle ERP Supply chain                             1       3     2
+
+TOTAL                                                                   9       18    15
+
+
+
+
+                                                             3 
+
+                                          DIPLOMA OF ASSOCIATE ENGINEER 
+                                                CIVIL TECHNOLOGY
+
+
+
+FIRST YEAR 
+FIRST YEAR                                                                         Th  Pr
+GEN 111                     Islamiat/Pokiston Studies                        50  00    50 
+ENG 112                     Technical  English                               100 00    100 
+MATH 113                    Applied Mathematics-I                            150 00    150 
+CH 112                      Applied Chemistry                                50  50    100 
+PHY 113                     Applied Physics                                  100 50    150 
+SHOP 162                    Workshop Practice                                00  100   100 
+CI 114                      Syrveying -I                                     100 100   200 
+CT 123                      Construction•I                                   100 50    150 
+CT 133                      Civil Drafting-I                                 50  100   150                                   
+
+TOTAL                                                                          700 450 1150 
+ 
+
+SECOND YEAR 
+CODE NO.                                  SUBJECTS                            TH  PR TOTAL
+                                                             
+GEN 211                Islamiot/Pakistan Studies                               50  00  50 
+MATH 213               Applied Mathematics-II                                  150 00 150 
+COMP 222               Mediate to CompubrAppfuelions                            50  50 100 
+CT 212                 Public Health Engineering-I                              50  50 100 
+CT 224                 Surveying•II                                             100 100 200 
+CT 233                 Construction-II                                          100 50 150 
+CT 243                 Civil Drafting-II                                        50 100 150 
+CT 253                 Mechanics of Structures                                  100 50 150 
+CT 262                 Quantity Surveying-I                                     50 50 100 
+
+TOTAL                                                                            700 450
+
+
+
+THIRD YEAR T 
+CODE NO.                                  SUBJECTS                               TH  PR TOTAL                   
+GEN 311                Islamiot/Pakistan Studies                                 50  00 50 
+CT 312                 Project Management                                        100 00  100 
+CT 322                 Quantity Surveying• I I                                   00  100 100 
+CT 344                 Hydraulics and Irrigation                                 150 50 200
+CT 353                 Railways Docks HAWS & Bridges                             100 50 150 
+CT 364                 Condole Technology& RCC Design                            150 50 200 
+CT 373                 SC41frAtchonics Higwoys and Airport                       100 50 150 
+CT 381                 Civil Engineering Project                                 00 50 50 
+CT 333                 Public Health Engineering•II                              100 50 150 
+
+TOTAL                                                                             750 400 1150 
+
+                                                  4 
+
+                                                 DIPLOMA OF ASSOCIATE ENGINEER
+                                                 ELECTRICAL     TECHNOLOGY
+
+CODE NO.                                  SUBJECTS                               TH  PR TOTAL     
+
+GEN 111                   Islamiat / Pakistan Studies                              50 00 50 
+ENG 112                   Technical English                                        100 00 100 
+MATH 113                  Applied Mathematics-I                                    150 00 150 
+CH 112                    Applied Chemistry                                        50 50 100 
+COMP 122                  Introdudon Io Compuler Amid:aborts                       50 50 100 
+ET 115                    Principle of Eletrical Engineering                       150 100 250 
+ET 121                    Basic Electrical Drawing                                  00 50 50 
+ET 146                    Work Shop Practice-1                                      50 250 300 
+                          I.) Wiring                                                  1 6 3 
+                          II.) Metal Work                                              0 3 1 
+                          III.) Wood Work                                               0 3 1 
+                          IV.) Welding                                                  0 3 1 
+
+TOTAL                                                                                600 500 1100 
+
+
+
+
+SECOND YEAR 
+GEN 211                   Islamiat/Pakistan Studies                               50 00 50 
+MATH 213                  Applied Mathematics-11                                   150 00 150 
+PHY 222                   Applied Physics                                           50 50 100 
+MGM 221                   Business mangement & industrial economics                  50 00 50 
+ET 213                    Dc Machines & Batteries                                   100 50 150 
+ET 223                    Eledried Instalment & Measurement                          100 50 150 
+ET 233                    Utilization of Metrical Energy                             100 50 150 
+ET 242                    Installation Planning & Estimating                          50 50 100 
+ET 251                    application of computer in elect technolgy                   00 50 50 
+ET 263                    Basic Electronics                                            100 50 150 
+ET 271                    Work Shop Practice-11                                        00 50 50 
+                          (Basic Machines Shop) 
+
+TOTAL                                                                                750 400 1150 
+
+
+THIRD YEAR 
+CODE NO.                   SUBJECTS                                             TH PR TOTAL 
+GEN 311                    Islamiat/Pakistan Studies                            50 00 50 
+MGM 312                    Business Communication                               50 00 50 
+MGM 311                    Industrial Management & Human Relation               50 00 50 
+ET 316                     Ac Machines                                          200 100 300 
+ET 322                     Power Plant & Energy Conservation                    100 00 100 
+ET 335                     Transmission Distribution and                        200 50 250 
+                           Protection of Electrical Power System 
+ET 343                     Telecommunication                                    100 50 150 
+ET 353                     Repair & Maintenance of Electrical Equipments        50 100 150 
+ET 364                     Digital & Industrial Electronics                     150 50 200 
+TOTAL                               950 350 1300 
+
+
+                                          5
+
+
+                                  DIPLOMA OF ASSOCIATE ENGINEER 
+                                 MECHANICAL TECHNOLOGY 
+FIRST YEAR
+CODE NO.                   SUBJECTS                                             TH PR TOTAL   ​
+GEN 111                  Islamiat / Pakistan Studies                            50 00 50 
+ENG 112                  Technical English                                      100 00 100 
+MATH 113                 Applied Mathematics-1                                  150 00 150 
+PHY 113                  Applied Physics                                        100 50 150 
+CH 112                   Applied Chemistry                                      50 50 100 
+COMP 122                 Introduction to Computer Application                   50 50 100 
+MT 131                   Safety Practice and Procedures                         50 00 50 
+MT 143                   Basic Engineering Drawing Cad-I                        50 100 150 
+MT 116                   Work Shop Practice-1 
+                         a) Metal Work                                          0   3 
+                         b) Wood Work                                           0   3 
+                         c) Welding & Forging                                   0   3 
+                         d) Foundry                                             0   3 
+                         e) Theory 2 0                                          100 200 300 
+
+TOTAL                                                                              700 450 1150 
+
+SECOND YEAR 
+GEN 211        Islamist / Pakistan Studies                                    50 00 50
+PHY 212        Applied Mechanics                                              50 150 100
+MATH 213       Applied Mathematics-II                                         50 00 50
+MGM 211        Business Communication                                         100 150 50 
+MGM 221        Business Management & Industrial Economics                     50 00 50
+MT 202         Applied Electricity and Electronics                            50 50 100
+MT 212         Metrology                                                      50 50 100
+MT 242         Metallurgy                                                     100 00 100 
+MT 223         Engineering Drawing & Cad-II                                   50 100 150
+MT 236         Workshop Practice-II                                           100 200 300 
+               a) Machine Shop                                                 0   6 
+               b) Foundry & Pattern Making                                     0   3 
+               c) Adv. Welding                                                 0   3 
+               d) Theory                                                       2   0 
+
+TOTAL                                                                            700 450 1150 
+
+
+
+
+THIRD YEAR 
+E NO.                             SUBJECTS                                        TR TOTAL 
+GEN 311                    Islamiat / Pakistan Studies                             50 00 50 
+MGM 311                    Industrial Management & Human Relations                 50 00 50 
+MT 312                     Hydraulic and Hydraulic Machines                        50 50 100 
+MT 323                     Applied Thermodynamics & Energy Conservation            100 50 150 
+MT 332                     Industrial Engineering                                   50 50 100 
+MT 343                     Machines Design                                         100 50 150 
+MT 353                     Tool Design and Making                                  100 50 150 
+MT 362                     Material Testing and Heat Treatment                     50 50 100 
+MT 374                     Workshop Practice-III                                   100 100 200 
+                            (Advance Machine Shop and Project) 
+MT 382                     Computer Integrated Manufacturing (CIM)                  50 50 100 
+
+TOTAL                                                                              700 450 1150
+
+
+
+                                                                            6
+                                                                  DIPLOMA OF ASSOCIATE ENGINEER 
+                                                                      ELECTORNICS TECHNOLOGY 
+FRIST YEAR 
+GEN 111                    Islamiat / Pakistan Studies                50 00 50 
+ENG 112                    Technical English                          100 00 100 
+MATH 113                   Applied Mathematics-I                      150 00 150 
+PHY 113                    Applied Physics                            100 50 150 
+COMP 111                   Computer Applications                       00 50 50 
+ELT 114                    Electrical Essentials and Networks          150 50 200 
+ELT 127                    Electrical Drawing and Computer Graphics    00 350 350 
+
+
+
+TOTAL                                                                  550 500 1050    
+
+                                             
+SECOND YEAR 
+CODE NO .                SUBJECT                                TH  PR  TOTAL              
+GEN 211                Islamiat/Pakistan Studies                50 00 50 
+MATH 213               Applied Mathematics-II                   150 00 150 
+CH 213                 Applied Chemistry                        100 50 150 
+MGM 211                Business Communication                   50 00 50 
+MGM 221                Industrial Economics                     50 00 50 
+ELT 214                Electronic Device and Circuits           150 50 200 
+ELT 233                Measuring Instruments                    100 50 150 
+ELT 243                Pulse and Digital Circuits               100 50 150 
+ELT 252                Communication System-I                   50 50 100 
+ELT 264                Amplifier and Radio Receivers            100 100 200 
+
+TOTAL                                                           900 350 1250 
+
+THIRD YEAR 
+CODE NO.                   SUBJECT                                               TH PR TOTAL
+GEN 311                 Islamiat / Pakistan Studies                               50 00 50 
+MGM 311                 Industrial Management & Human Relations                    50 00 50 
+ELT 312                 Communication System-II                                    50 50 100 
+ELT 322                 Motor and Generator                                        50 50 100 
+ELT 326                 IV Circuits and System                                    150 150 300 
+ELT 333                 Industrial Electronics                                    100 50 150 
+ELT 352                 Antenna and Transmission Lines                             50 50 100 
+ELT 361                 Microwave and Radar                                         50 00 50 
+ELT 363                 Microprocessor and Microcomputer                            100 50 150 
+ELT 381                 Equipment Servicing and Project (Lab)                        00 50 50 
+
+TOTAL                                                                              650 450 1100 
+
+
+                                    
+                                                          7
+                                          DIPLOMA OF ASSOCIATE ENGINEER
+                                             AUTO & DIESEL TECHNOLOGY 
+
+FIRST YEAR 
+GEN 111                            Islamiat / Pakistan Studides                              50 00 50 
+ENG 112                            Technical English                                        100 00 100 
+MATH 113                           Applied Mathematics-I                                    150 00 150 
+PHY 113                            Applied Physics                                          100 50 150 
+COMP 122                           Introduction to Computer Application                     50 50 100 
+AD 113                             Automotive Electric and Electronics                      100 50 150 
+AD 123                             I.C. Engines                                             100 50 150 
+MT 153                             Engineering Drawing                                      50 100 150 
+MT 164                             Workshop Practice - 1 
+                                  a) Machine shop & Safety Practice                         50 50 100 
+                                  b) Metal Shop, Welding Practice Foundry                   50 50 100 
+
+
+TOTAL                                                                                      800 400 1200 
+
+SECOND YEAR
+GEN 211                  Islamiat / Pakistan Studies                                     50 00 50 
+CH 213                   Applied Chemistry                                               100 50 150 
+MATH 213                 Applied Mathematics-11                                          150 00 150 
+PHY 212                  Applied Mechanics                                               50 50 100 
+MGM 232                  Industrial Management &Economics                                100 00 100 
+AD 212                   Applied Thermodynamics                                          50 50 100 
+AD 223                   Suspension Steering and Brakes                                  100 50 150 
+AD 234                   Workshop Practice-II                                            100 100 200 
+AD 243                   Problems in I.0 Engines                                         100 50 150 
+AD 252                   Metrology                                                       50 50 100 
+
+
+TOTAL 850 400 1250 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

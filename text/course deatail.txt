@@ -1,0 +1,156 @@
+
+                                                                           SOFTWARE ENGINEERING
+
+Objective
+The world cannot operate without software. Industries are controlled by software systems, as the functioning of financial systems, scientific labs, infrastructures and utilities, games,
+ film, television, and so on depend on it. A software is a computer program along with the associated documents and the configuration data that make these programs operate correctly.
+
+Software engineering is an engineering discipline that is applied to the development of software in a systematic approach (called a software process).
+It is the application of theories, methods, and tools to design build a software that meets the specifications efficiently, cost-effectively, and ensuring quality.
+
+
+It is not only concerned with the technical process of building a software, it also includes activities to manage the project, develop tools, methods and theories 
+that support the software production. Different methods and techniques of software engineering are appropriate for different types of systems. For example, games should be developed 
+using series of prototypes, while critical control systems require a complete analyzable specification to be developed.
+
+Software Engineers
+The job of a software engineer is difficult. It has to maintain balance between different people involved, such as:
+
+Dealing with users:
+Users don’t know what to expect exactly from the software. The concern is always about the ease of use and response time.
+
+Dealing with technical people:
+Developers are more technically inclined people so they think more of database terms, Design and functionality, etc.
+
+Dealing with management:
+They are concerned withreturn on their
+investment, and meeting the schedule.
+
+
+                                                                Diploma of Associate Engineering in Computer Information Technology 
+
+Objective
+Information Technology has become the lifeline of modern world. We are now living in a global village largely because of this technology. All organizations, big or small, 
+have either been already computerized or making hurried efforts to fully computerize themselves. Computer with Internet is now a household appliance.
+
+The firms that deal in computer hardware and software are among the richest in the world. The job market in computer related work has been fast expanding.
+
+In Pakistan, tremendous efforts are being made, both in the public as well as in private sectors, to expedite the Computer Information Technology revolution.
+
+The scheme of studies includes general introduction to computer hardware, software and their applications in daily life. Emphasis is given to the development of software techniques
+ both in procedural and non-procedural languages & tools including Microprocessor design and architecture, data communication and networking, webpage designing, PC configuration & 
+its applications etc.
+
+
+A lot of job opportunities in the field of information technology, do exist for Associate Engineers of Computer Information Technology and these job opportunities will keep on expanding 
+in a big way in future as well.
+
+
+
+                                                                Diploma of Associate Engineering in Civil Technology
+
+Objective
+Civil Engineering is the design and fabrication of structures for improving the way we live and work and for enabling rapid, safe and high-volume transportation. Examples include buildings, roads, railways, airports, bridges, canals, dams, sky scrapers and factories.
+Modern Civil Engineering often places a focus on aesthetic considerations and environmental impact.
+
+Civil Engineering is the second oldest engineering discipline after military engineering & it is defined as non-military engineering. It takes place in the public sector from municipal 
+through to national governments and in the private sector from individual home owners through to international companies.
+
+We offer diploma of Associate Engineer in Civil and the length of study is three years. The curriculum includes the courses of Surveying, construction, civil drafting, mechanics of structures,
+ project management, concrete technology, soil mechanics, roads, bridges, docks, harbors, highways, ralways, airports, hydraulics and irrigation etc.
+
+ 
+Job opportunities for Associate Engineers, trained in Civil are available in government departments, private and public sector industries, research and teaching institutions in areas such as
+road projects, building works, consultancy firms, quality testing laboratories, Dam constructing companies, housing societies etc. Employment opportunities are increasing rapidly as more 
+and more investment is forthcoming in these fields.Recently announced Naya Pakistan Housing scheme will open flood gates of jobs in the construction industry.
+
+
+
+                                                            Diploma of Associate Engineering in Electrical Technology
+
+Objective
+Three Years Diploma of Associate Engineer Programme is aimed to provide basic preparation for a career in the broad discipline of Electrical Technology.
+
+It prepares & enhances the opportunities for students for career in such fields as Research and Development, Designing & Manufacturing, Technical Sales & Product Support and
+ Undergraduate Studies in Electrical Engineering.
+
+After completing DAE in Electrical Technology, one can handle operation of multi-megawatt power generating stations and other huge plants.
+
+The scheme of studies covers constructional and operational details of all types of electric motors, generators and convertors available in industrial units.
+ Planning, installation, operation and maintenance of AC & DC machines, batteries and domestic appliances are also the part of the scheme of studies. 
+Strong emphasis is placed in “hands-on” practice during the course. To achieve this, we have established such laboratories as
+
+Electrical Power & Machine Lab.
+Electrical Wiring & Soldering Lab.
+Electrical Repair & Maintenance Lab equipment.
+Basic Electricity & Basic Electronics Lab having State-of-the-art training facilities.
+
+A lot of job opportunities exist both in public and private sector organizations for the Associate Engineers trained in Electrical Technology, 
+in such areas as Production, Installation, Operation, Maintenance, and Sales & Service of electrical equipment, devices & gadgets.
+
+          
+                                                                  Diploma of Associate Engineering in Electronics Technology
+
+Objective
+This is the age of Electronics. Radio, TV, Computer, Telecommunication devices, etc. These have now become the life and blood of modern civilization. 
+
+Even, such a sophisticated device known as microprocessor is finding its way in household appliances. This technology has entered into trade, commerce, industry and almost every office and home.
+
+Education and training in Electronics has, therefore, been introduced in a big way in almost every country of the world.
+
+Pakistan could not afford to be left behind in this very important field and has started education and training in Electronics at different levels.
+
+
+The objective of the Diploma level education in Electronics is to fill the gap between university graduate engineers and the skilled workers trained at the Technical Training Centers.
+The scheme of studies includes, among other things, subjects like Electrical & Electronics networks, Motors & Generators, Radio Transmitters & Receivers, T.V.
+Circuits & Systems, Industrial Electronics, Microprocessors & Micro-Computers, Telecommunication Systems covering such aspects as F.M. Links, Fiber Optics, Satellite Communication,
+ Micro- wave, Radar etc.
+
+A lot of job opportunities exist both in public and private sector organizations for the Associate Engineers, trained in Electronics in such areas as Production,
+ Maintenance and Sales & Service of Electronic devices and gadgets.
+
+More and more jobs will be available in this industry as the Govt has recently allowed the companies to manufacture mobile sets for local consumption as well as export.
+
+
+
+
+                                                         Diploma of Associate Engineering in Mechanical Technology
+Objective
+Mechanical Technology is the backbone of all technologies. Mechanical Technology plays vital role in almost every field of life ranging from power generation to health care
+The main objective of starting this program is to produce technologists of mechanical technology to address the full range of technical and societal problems with creativity, imagination, 
+confidence and responsibility. So that these technologies serve as ambassadors for technology by exhibiting the highest ethical and professional standards, and by communicating 
+the importance and excitement of this dynamic field.
+
+Mechanical Technology is in line with the requirement of industries. Students after completing DAE in Mechanical Technology may 
+work independently to research, ddesign and develop machinery, systems and products for various industry applications including heating, ventilating, air conditioning, power generation,
+transportation, manufacturing, waste management, or biomechanics. They would also evaluate and manage the installation, operation and maintenance of mechanical systems.
+
+
+The scheme of studies includes knowledge of computer integrated Manufacturing with configurations of CAD, CAM & ROBOTICS, types of lathes, drilling machines,
+tool grinders, shaper, planner, foundry practice, pattern making and advance welding, importance of tool design and tool making, principles of designing jigs and Fixtures with their types,
+manufacturing operations like blanking piercing, Bending, Drawing and Forming, Machines and applications  and Workshop skills.
+
+Mechanical Technology students are fit to meet increasing demand of modern industries and play an important role for the development of our country by getting employment
+ in many industries including private or public sector of various types. They have opportunities in Automobile, Chemical, Communication, Electronics, Defense Aeronautical, Steel Plants,
+ Oil exploration and refining, Agriculture, Power Plants, Space research organization, etc.
+
+
+                                                       Diploma of Associate Engineering  in Auto Diesel 
+
+objective
+
+An auto and diesel technology diploma program will imbue you with the skills and experience you need to be a successful auto mechanic. Hands-on experience is essential as you learn about different auto technologies like hydraulics, electrical systems, welding, air intake, brake repair, and engine building. A typical diploma program for auto and diesel technology will include the following courses:
+
+Engine Fundamentals
+Brakes
+Electrical Systems
+Heating and Air Conditioning
+Engine Rebuild
+Diesel Electrical Systems
+Computer Literacy
+Alignment/Steering/Suspension
+
+A diploma program in auto and diesel technology will prepare you for a career as an automotive mechanic. This job necessitates extensive training and experienced due to the highly 
+technical nature of the position.A degree program will ensure that you have the necessary skills and show employers that you are qualified for the position.
+
+ 
